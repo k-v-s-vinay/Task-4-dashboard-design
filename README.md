@@ -94,6 +94,7 @@ task-4-dashboard-design/
 Successfully completed as part of Elevate Labs Internship. This project demonstrates the ability to convert raw data into powerful business insights using Power BI.
 
 ## 📸 Dashboard Preview
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/736babcb-cf91-4523-84ab-e95e0e6015fb" />
 
 ---
 
