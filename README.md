@@ -82,7 +82,7 @@ task-4-dashboard-design/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-4-dashboard-design.git
+   git clone https://github.com/k-v-s-vinay/Task-4-dashboard-design.git
 
 2. Open the .pbix file using Power BI Desktop.
 
